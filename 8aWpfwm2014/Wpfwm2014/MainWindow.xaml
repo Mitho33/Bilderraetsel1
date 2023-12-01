@@ -1,0 +1,26 @@
+﻿<Window x:Name="WM2014" x:Class="Wpfwm2014.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WM2014" Height="400" Width="600">
+    <Grid >
+        <!--  <Image x:Name="wm14" HorizontalAlignment="Left" Height="350" Margin="54,0,0,0" VerticalAlignment="Top" Width="500"  IsEnabled="False" Source="C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\team14.jpeg"/>-->
+        <!--Die Bilddatei muss in den Ordner hinzugefügt werden und dann der Pfad bei Source in den Eigenschaften kopiert werden!!!
+        Entweder einfach in den Ordner kopieren oder über den Projrektmappenexplorer, Datei anklicken, rechte maustaste und/hinzufügen usw.-->
+        <Image x:Name="wm14" HorizontalAlignment="Left" Height="350" Margin="54,0,0,0" VerticalAlignment="Top" Width="500"  IsEnabled="False" Source="team14.jpeg"/><!--relativer Pfad, besser geeignet zur Veröffentlichung-->      
+        <Button x:Name="Tm" Content="" HorizontalAlignment="Left" Height="40" Margin="289,104,0,0" VerticalAlignment="Top" Width="30" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" OpacityMask="Transparent" Click="Tm_Click"/>
+
+        <Label x:Name="LabelAnzeige" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="235,303,0,0" Width="120"/>
+        <Button x:Name="Pl" Content="" HorizontalAlignment="Left" Height="40" Margin="151,104,0,0" VerticalAlignment="Top" Width="30" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Pl_Click" OpacityMask="Transparent"/>
+        <Button x:Name="Mg" Content="Button" HorizontalAlignment="Left" Height="43" Margin="208,144,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Mg_Click" OpacityMask="Transparent"/>
+        <Button x:Name="As" Content="as" HorizontalAlignment="Left" Height="51" Margin="361,93,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="As_click" OpacityMask="Transparent"/>
+        <Button x:Name="Gb" Content="Button" HorizontalAlignment="Left" Height="34" Margin="452,21,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Gb_click" OpacityMask="Transparent"/>
+        <Button x:Name="Mh" Content="Button" HorizontalAlignment="Left" Height="34" Margin="396,26,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Mh_click" OpacityMask="Transparent"/>
+        <Button x:Name="Mj" Content="Button" HorizontalAlignment="Left" Height="34" Margin="339,26,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="MJ_click" OpacityMask="Transparent"/>
+        <Button x:Name="Bh" Content="Button" HorizontalAlignment="Left" Height="34" Margin="294,26,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Bh_click" OpacityMask="Transparent"/>
+        <Button x:Name="Sk" Content="Button" HorizontalAlignment="Left" Height="34" Margin="235,26,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Sk_click" OpacityMask="Transparent"/>
+        <Button x:Name="Tk" Content="Button" HorizontalAlignment="Left" Height="34" Margin="172,38,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Tk_click" OpacityMask="Transparent"/>
+        <Button x:Name="Mn" Content="Button" HorizontalAlignment="Left" Height="34" Margin="116,26,0,0" VerticalAlignment="Top" Width="34" BorderBrush="Transparent" Foreground ="Transparent" Background="Transparent" Click="Mn_click" OpacityMask="Transparent"/>
+<!--Die Button können im Bild  kopiert werden und dann angepasst werden-->
+
+    </Grid>
+</Window>

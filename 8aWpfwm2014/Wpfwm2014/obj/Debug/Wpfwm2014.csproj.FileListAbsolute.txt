@@ -1,0 +1,84 @@
+c:\users\michael thomas\desktop\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\USUB\Desktop\c#\Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\USUB\Desktop\Norwegen C#\8Wpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe.config
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\bin\Debug\Wpfwm2014.pdb
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.g.resources
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.exe
+C:\Users\Michael Thomas\Desktop\2021_3\Ita\itams\C#13\8aWpfwm2014\Wpfwm2014\obj\Debug\Wpfwm2014.pdb
